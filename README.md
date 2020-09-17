@@ -3,8 +3,8 @@ XSEDE Software Copyright and Licensing Guidance and Template Files
 
 # Developer Procedures
 
-Copy the XSEDE/LICENSE-template LICENSE and NOTICE files into the base directory for your
-software, replacing any existing license or copyright notice files.
+Put the XSEDE/LICENSE-template LICENSE.txt and NOTICE files into the base directory for your
+software source and deployment directories, replacing other license or copyright notice files.
 
 This guidance applies to all software developed by the XSEDE program, whether maintained in
 https://github.com/XSEDE, bitbucket, https://software.xsede.org/svn/, or elsewhere.
