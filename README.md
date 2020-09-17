@@ -7,7 +7,7 @@ Copy the XSEDE/LICENSE-template LICENSE and NOTICE files into the base directory
 software, replacing any existing license or copyright notice files.
 
 This guidance applies to all software developed by the XSEDE program, whether maintained in
-https://github.com/XSEDE, bitbucket, or elsewhere.
+https://github.com/XSEDE, bitbucket, https://software.xsede.org/svn/, or elsewhere.
 
 ## Individually developed or single-site software
 For software that is developed by a single individual or by persons all employed by the same
