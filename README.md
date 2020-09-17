@@ -5,6 +5,8 @@ XSEDE Software Copyright and Licensing Guidance and Template Files
 
 Put the XSEDE/LICENSE-template LICENSE.txt and NOTICE files into the base directory for your
 software source and deployment directories, replacing other license or copyright notice files.
+If you use LICENSE-template as a template when creating a new GIT repository, make sure to
+replace README.md with your software specific README.
 
 This guidance applies to all software developed by the XSEDE program, whether maintained in
 https://github.com/XSEDE, bitbucket, https://software.xsede.org/svn/, or elsewhere.
